@@ -1,4 +1,6 @@
 # platzi-exchange
+### Vue.js application to know current status of crypto coins :rocket:
+:mag_right: Live demo : https://confident-raman-39776f.netlify.app
 
 ## Project setup
 ```
